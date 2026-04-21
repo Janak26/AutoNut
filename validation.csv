@@ -1,0 +1,130 @@
+Query,query type
+Paneer curry recipe,ingredients
+food items made with dal,ingredients
+Indian Style Sandwich,ingredients
+french fries recipes,ingredients
+french onion soup tips,ingredients
+recipes with broccoli,ingredients
+dishes using cauliflower,ingredients
+meals with tomatoes and basil,ingredients
+recipes using potatoes,ingredients
+dishes with cheese and vegetables,ingredients
+recipes with mushrooms,ingredients
+meals using spinach,ingredients
+recipes with lentils,ingredients
+dishes using chickpeas,ingredients
+recipes with yogurt,ingredients
+meals with zucchini,ingredients
+recipes using carrots,ingredients
+dishes with beans,ingredients
+recipes with garlic and herbs,ingredients
+meals using bell peppers,ingredients
+recipes with rice and vegetables,ingredients
+dishes using paneer,ingredients
+recipes with eggplant,ingredients
+meals using tofu,ingredients
+recipes with corn,ingredients
+vegetarian pasta recipes,dish based
+vegetarian curry recipes,dish based
+vegetarian soup recipes,dish based
+baked vegetarian dishes,dish based
+vegetarian casseroles,dish based
+grilled vegetable recipes,dish based
+vegetarian salads,dish based
+vegetarian stir fry dishes,dish based
+vegetarian rice dishes,dish based
+vegetarian sandwich recipes,dish based
+vegetarian noodle dishes,dish based
+Vegetable stew recipes,dish based
+vegetarian pizza recipes,dish based
+vegetarian wraps,dish based
+recipes under 10 minutes,time based
+quick vegetarian meals,time based
+recipes under 20 minutes,time based
+fast breakfast recipes,time based
+quick lunch ideas vegetarian,time based
+easy dinner recipes under 30 minutes,time based
+recipes with minimal prep time,time based
+quick snacks vegetarian,time based
+simple recipes for busy days,time based
+fast cooking vegetarian meals,time based
+vegetarian breakfast ideas,meal type
+light vegetarian lunch recipes,meal type
+vegetarian dinner recipes,meal type
+vegetarian snacks,meal type
+healthy breakfast recipes vegetarian,meal type
+brunch recipes vegetarian,meal type
+vegetarian appetizers,meal type
+vegetarian side dishes,meal type
+main course vegetarian meals,meal type
+vegetarian comfort food,meal type
+vegetarian party food,meal type
+lunchbox vegetarian recipes,meal type
+simple dinner ideas vegetarian,meal type
+filling vegetarian meals,meal type
+vegetarian desserts,meal type
+Indian vegetarian recipes,cuisine based
+Italian vegetarian dishes,cuisine based
+Mediterranean vegetarian recipes,cuisine based
+French vegetarian dishes,cuisine based
+Greek vegetarian recipes,cuisine based
+Asian vegetarian recipes,cuisine based
+Chinese vegetarian dishes,cuisine based
+Western vegetarian meals,cuisine based
+fusion vegetarian recipes,cuisine based
+traditional vegetarian cooking,cuisine based
+spicy Indian curries vegetarian,cuisine based
+European vegetarian dishes,cuisine based
+vegetarian comfort food western,cuisine based
+classic vegetarian recipes,cuisine based
+global vegetarian cuisine,cuisine based
+healthy vegetarian recipes,nutrition based
+low calorie vegetarian meals,nutrition based
+high protein vegetarian dishes,nutrition based
+light vegetarian recipes,nutrition based
+low fat vegetarian meals,nutrition based
+nutritious vegetarian recipes,nutrition based
+balanced vegetarian meals,nutrition based
+wholesome vegetarian dishes,nutrition based
+healthy lunch vegetarian,nutrition based
+healthy dinner recipes vegetarian,nutrition based
+protein rich vegetarian meals,nutrition based
+fiber rich vegetarian dishes,nutrition based
+clean eating vegetarian recipes,nutrition based
+simple healthy vegetarian food,nutrition based
+diet friendly vegetarian recipes,nutrition based
+vegetarian recipes without cheese,constraint based
+recipes without dairy vegetarian,constraint based
+vegetarian meals without garlic,constraint based
+recipes without onion vegetarian,constraint based
+dishes without tomatoes,constraint based
+vegetarian recipes without butter,constraint based
+meals without oil vegetarian,constraint based
+recipes without cream,constraint based
+vegetarian dishes without nuts,constraint based
+recipes without yogurt,constraint based
+vegetarian recipes without spices,constraint based
+meals without sugar vegetarian,constraint based
+simple recipes with few ingredients,constraint based
+vegetarian recipes without frying,constraint based
+plain vegetarian recipes,constraint based
+vegetarian curry recipes,category based
+rice based vegetarian dishes,category based
+lentil curry recipes,category based
+vegetable biryani recipes,category based
+creamy vegetarian pasta,category based
+vegetable soup recipes,category based
+baked vegetable dishes,category based
+vegetable casserole recipes,category based
+vegetarian gravy recipes,category based
+dry vegetable dishes,category based
+what can I cook with potatoes and cheese,natural queries
+suggest a quick vegetarian dinner with vegetables,natural queries
+what are some healthy vegetarian lunch ideas,natural queries
+give me a simple breakfast without eggs,natural queries
+what vegetarian dishes can I make in under 20 minutes,natural queries
+suggest a light dinner with vegetables,natural queries
+what can I cook with tomatoes and pasta,natural queries
+recommend a healthy vegetarian meal for dinner,natural queries
+suggest a quick snack with vegetables,natural queries
+what vegetarian recipes are easy for beginners,natural queries
