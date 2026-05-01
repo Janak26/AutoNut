@@ -1,0 +1,32 @@
+user input,qwen0.8B,qwen2B,qwen9B,gpt-4.1-mini
+"I just got back from the gym and it's already 7pm, what can I eat quickly? ","meal quick, time requirement, dietary restriction (no eggs), food type, dish type.","quick meal, dinner, no eggs, high protein, post-gym snack, vegan",high protein dinner quick easy snack,"dinner, quick, high protein, easy"
+"I'm really tired and don't want to cook much, suggest something easy for dinner ",easy meal for dinner,"dinner, easy, low-calorie, quick, vegetarian",dinner easy low effort,"dinner, easy, quick, low effort"
+It's morning and I need something light but filling ,"high protein, light snack, filling",light breakfast filling snack no dairy,"breakfast, lunch, snack, light, filling","breakfast, light, filling, easy, quick"
+I'm super hungry and want something quick to make ,"super hungry, meal quick, make",quick lunch easy meal healthy dinner,"quick, lunch, snack, easy","snack, quick, easy, light"
+I want something comforting for dinner after a long day ,comforting dinner,"comfortable, dinner, easy","dinner,comforting,long day","dinner, comforting, easy, healthy"
+I need a quick lunch before my next meeting,quick lunch meal,"quick, lunch, pre-meeting, healthy","lunch, quick","lunch, quick, easy, light"
+suggest a high protein vegetarian dinner ,"dinner, high protein, vegetarian","high protein, vegetarian, dinner, meal","high protein, vegetarian, dinner","dinner, high protein, vegetarian, easy"
+I want something healthy and low calorie for tonight ,low-calorie meal dinner,"[""lunch"", ""snack"", ""dinner"", ""health"", ""low-calorie""]","healthy, low calorie, dinner","dinner, healthy, low calorie"
+give me a light meal for dinner ,"light meal, dinner, fast food","light, dinner, high protein, healthy","dinner, light meal, nutritious","dinner, light, easy, quick"
+I need something nutritious but not heavy ,nutritious light meal,nutritious non-heavy lunch,"nutrition, healthy, light","healthy, light, nutritious, snack, easy"
+what are some healthy vegetarian lunch options?,"health, lunch options, vegetarian","vegetarian, lunch, healthy, vegetarian, no eggs","vegetarian, lunch, healthy","vegetarian, lunch, healthy, easy, light"
+"I only have 10 minutes, what can I cook? ",cook quick drink,quick meal dinner under 10 minutes high protein lunch,"quick, easy, meal","quick, easy, any meal, under 10 minutes"
+suggest something quick under 15 minutes ,meal time quick under 15 minutes,"quick, dinner, healthy","quick, under 15 minutes","quick, under 15 minutes, easy, snack, fast meal"
+"I don't have much time, give me an easy recipe ",recipe quick easy,easy quick dinner,"easy, quick","easy, quick, any meal, no dietary constraints, simple ingredients"
+quick snack ideas please,"1. snack
+2. meal type
+3. dinner/quick
+4. lunch",snack quick lowcarb protein vegan healthy easy,"quick, snack","snack, quick, easy"
+"I don't eat eggs, what can I make for breakfast? ",no-dairy-vegan-breakfast,noeggsbreakfastdinnerquick,no eggs breakfast quick,"breakfast, no eggs, easy, quick"
+suggest a vegetarian meal without dairy ,"vegetarian, no-dairy",vegetarian no dairy dinner low fat breakfast,"vegetarian, no dairy, meal","vegetarian, no dairy, meal, easy, healthy"
+I want something without onions and garlic ,"vegetarian, no onions, garlic","[no onions, no garlic]","no onion, no garlic",no onion no garlic dietary constraint
+any recipes without cheese?,"no cheese, recipe type (meal), dish (breakfast)",No dairy vegan quick lunch dinner snack,dietary constraints no dairy ingredient to avoid cheese,"no cheese, dietary constraint"
+"I have potatoes and tomatoes, what can I cook? ","meal type quick, ingredients potato tomatoes","Potatoes, Tomatoes, Dinner",potatoes tomatoes dinner easy,"potatoes, tomatoes, versatile, easy, vegetarian, side dish"
+"I only have some vegetables and rice, suggest something ","vegetables, rice, dish type, quick, easy",vegetables rice full course lunch quick vegetarian,"rice, vegetables, lunch, dinner, easy","vegetarian, rice, vegetables, easy, quick, lunch, healthy"
+"I have paneer at home, what can I make? ",meal options snack full course high protein,paneer breakfast lunch dinner quick healthy high protein,paneer vegetarian Indian dish,"paneer, vegetarian, easy, Indian, dinner, medium time"
+"I have leftover spinach, any ideas?","lemon juice, vinegar, garlic, onion, parsley","spinach
+dinner
+vegetarian
+low sodium","dinner, lunch, snack, spinach","vegetarian, quick, spinach, healthy, easy, snack, side dish"
+I feel like eating something Indian for dinner ,"Indian, dinner, high protein","Indian, dinner, curry, full course, no onion, high protein","Indian, dinner","dinner, Indian, easy, savory"
+suggest a simple Italian vegetarian dish,"Italian, Vegetarian","simple, italian, vegetarian, quick, easy, no meat","Italian, vegetarian, simple, meal","Italian, vegetarian, simple, easy, main course"

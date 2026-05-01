@@ -1,6 +1,9 @@
 archive/
-
+.env
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 *-checkpoint.ipynb
+# pycache
+*.pyc
+scripts/__pycache__/
