@@ -1,8 +1,8 @@
-AutoNut, an end-to-end intelligent recipe assistant that allows users to search, explore, and interact with vegetarian recipes using natural language.
+## AutoNut, an end-to-end intelligent recipe assistant that allows users to search, explore, and interact with vegetarian recipes using natural language.
 
 
 
-The system supports:
+### The system supports:
 Smart recipe retrieval
 Context-aware filtering
 Interactive conversational assistance over recipes
@@ -10,7 +10,7 @@ Interactive conversational assistance over recipes
 
 
 
-🚀 Features
+## 🚀 Features
 🔍 Natural language recipe search
 🧠 Intelligent query understanding (time, diet, preferences)
 🗂️ Structured recipe storage and retrieval
@@ -20,7 +20,7 @@ Interactive conversational assistance over recipes
 
 
 
-📊 Dataset
+## 📊 Dataset
 
 The dataset consists of ~900 vegetarian recipes collected from:
 
@@ -31,7 +31,7 @@ Creative Vegetarian Cooking
 
 
 
-🧹 Data Processing Pipeline
+## 🧹 Data Processing Pipeline
 1. PDF → Text Extraction
 Manual Restructuring of some recipe books
 Extracted raw text from recipe books
@@ -48,7 +48,7 @@ normalized time fields
 consistent schema
 
 
-🗄️ Database (LanceDB)
+## 🗄️ Database (LanceDB)
 
 Recipes are stored in LanceDB with:
 
@@ -57,7 +57,7 @@ Metadata fields (ingredients, cook time, etc.)
 
 
 
-🔎 Query & Retrieval
+## 🔎 Query & Retrieval
 Step 1: User Query
 
 Example:
@@ -76,7 +76,7 @@ Score and filter results based on relevance, groundedness, relatedness, and sema
 
 
 
-💬 Chat Capabilities
+## 💬 Chat Capabilities
 
 Once a recipe is selected, users can:
 
@@ -88,7 +88,7 @@ Understand steps
 
 
 
-🧠 Prompt Design
+## 🧠 Prompt Design
 
 Key principles:
 
