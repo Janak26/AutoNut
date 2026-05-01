@@ -59,18 +59,19 @@ Metadata fields (ingredients, cook time, etc.)
 
 ## 🔎 Query & Retrieval
 Step 1: User Query
-
 Example:
-
 "I want something quick for dinner after gym"
+
 Step 2: Query Processing using OpenAI API for intent extraction
 Extract intent:
 meal type → dinner
 constraint → quick
 nutrition → high protein
+
 Step 3: Retrieval
 Semantic search over embeddings
 Top-K results fetched
+
 Step 4: Filtering
 Score and filter results based on relevance, groundedness, relatedness, and semantic match using OpenAI APIs
 
@@ -80,11 +81,15 @@ Score and filter results based on relevance, groundedness, relatedness, and sema
 
 Once a recipe is selected, users can:
 
-Ask for simplification
-Get substitutions
-Adjust serving size
-Make recipes healthier or quicker
-Understand steps
+-Ask for simplification
+
+-Get substitutions
+
+-Adjust serving size
+
+-Make recipes healthier or quicker
+
+-Understand steps
 
 
 
