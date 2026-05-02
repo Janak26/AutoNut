@@ -1,6 +1,8 @@
 ## AutoNut, an end-to-end intelligent recipe assistant that allows users to search, explore, and interact with vegetarian recipes using natural language.
 
 
+https://github.com/user-attachments/assets/1c292d98-8b48-4630-bce0-f474de7a7645
+
 
 ### The system supports:
 Smart recipe retrieval
