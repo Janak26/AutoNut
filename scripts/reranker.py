@@ -92,9 +92,6 @@ def score_responses(responses_json, client_query):
 		# print(single_response)
 		scores = score_responses_openai(single_response, client_query)
 		scores = parse_chatgpt_json(scores)
-		# print('---')
-		# print(scores)
-		# single_response.update(scores)
 		single_response = single_response | scores
 		scored_responses_json.append(single_response)
 	return scored_responses_json

@@ -1,0 +1,17 @@
+2026-05-02 11:35:03 - user search: text='i want some sandwiches' | ids: [224, 830, 770, 220, 771] | reranked: [224, 830, 770, 220]
+2026-05-02 11:36:15 - user search: text='can i get a bottle of mercury?' | ids: [188, 768, 190, 415, 189] | reranked: []
+2026-05-02 12:26:12 - user search: text='i want some sandwiches' | ids: [830, 224, 220, 194, 225] | reranked: [830, 224, 220, 225]
+2026-05-02 12:28:49 - user search: text='i want some vegetable sandwich' | ids: [816, 822, 194, 554, 808] | reranked: [808]
+2026-05-02 12:59:19 - user search: text='in want some tomato pasta' | ids: [487, 201, 486, 48, 847] | reranked: [487, 486, 48]
+2026-05-02 13:04:03 - user search: text='i want something spicy' | ids: [276, 438, 682, 124, 349] | reranked: [276, 682, 124, 349]
+2026-05-02 13:07:41 - user search: text='i want a vegeterian burger' | ids: [816, 194, 554, 216, 833] | reranked: [833]
+2026-05-02 13:08:13 - recipe id: 833 | chat history: is it a good source of protien?
+2026-05-02 13:08:13 - recipe id: 833 | chat history: Yes, this dish provides **28g** of protein per serving.
+2026-05-02 13:13:08 - user search: text='i want a vegeterian burger' | ids: [816, 194, 554, 216, 833] | reranked: [833]
+2026-05-02 13:14:08 - recipe id: 833 | can i use pita instead of bun?: user
+2026-05-02 13:14:08 - recipe id: 833 | You can try using a pita, but since the recipe specifically calls for a hamburger bun, using one might be too dense and alter the flavor profile. If you must, add an extra tablespoon of olive oil to help absorb any potential liquid from the pita before serving.: system
+2026-05-02 13:15:03 - user search: text='i want a vegeterian burger' | ids: [816, 194, 554, 216, 833] | reranked: [833]
+2026-05-02 13:15:36 - recipe id: 833 | user: can i use some different suace?
+2026-05-02 13:15:36 - recipe id: 833 | system: You can certainly substitute the sloppy joe sauce for another vegetarian option like tomato paste mixed with water or a meatless beef broth.
+
+However, please note that this recipe relies on specific flavors from the original sauce to bind the mixture well; if you don't have one available, you may not be able to complete it successfully.
