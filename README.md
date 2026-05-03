@@ -4,6 +4,13 @@
 https://github.com/user-attachments/assets/1c292d98-8b48-4630-bce0-f474de7a7645
 
 
+
+## Architecture
+
+![](https://raw.githubusercontent.com/Janak26/AutoNut/refs/heads/main/chef.jpg)
+
+
+
 ### The system supports:
 Smart recipe retrieval
 Context-aware filtering
@@ -27,8 +34,11 @@ Interactive conversational assistance over recipes
 The dataset consists of ~900 vegetarian recipes collected from:
 
 The Bold Vegetarian Chef by Ken Charney
+
 Vegetarian Recipes Collection
+
 Student's Vegetarian Cookbook for Dummies by Connie Sarros
+
 Creative Vegetarian Cooking
 
 
