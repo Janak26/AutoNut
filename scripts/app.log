@@ -15,3 +15,23 @@
 2026-05-02 13:15:36 - recipe id: 833 | system: You can certainly substitute the sloppy joe sauce for another vegetarian option like tomato paste mixed with water or a meatless beef broth.
 
 However, please note that this recipe relies on specific flavors from the original sauce to bind the mixture well; if you don't have one available, you may not be able to complete it successfully.
+2026-05-02 14:32:10 - user search: text='i want to have some high protien diet as i just got back from the gym' | ids: [780, 769, 762, 768, 760] | reranked: [769, 762, 768]
+2026-05-02 14:33:11 - recipe id: 769 | user: is there any way to reduce calories?
+2026-05-02 14:33:11 - recipe id: 769 | system: You can reduce calories by substituting the low-fat milk with almond or soy milk and replacing the peanut butter with a lighter option.
+2026-05-02 14:33:47 - recipe id: 769 | user: will the taste and texture remain the same? 
+2026-05-02 14:33:47 - recipe id: 769 | system: Yes, the flavor and smoothness will be maintained as described by your recipe. However, please note that you cannot add ice cubes while blending on high; these must be added after the mixture reaches a thick purée to avoid damaging the blades.
+2026-05-02 14:34:51 - user search: text='i just got backk from the gym so want to have something high protein' | ids: [487, 780, 771, 461, 899] | reranked: [780]
+2026-05-02 14:35:46 - recipe id: 780 | user: is there a way to reduce the amount of calories?
+2026-05-02 14:35:46 - recipe id: 780 | system: You can try reducing the calories by substituting the peanut butter with half a teaspoon or less.
+Since this recipe uses instant cocoa mix and oats, they are already quite high in carbs; you would also lose significant protein and fat if you cut down on those key ingredients, making it difficult to maintain nutrition without altering the dish significantly.
+2026-05-02 14:36:39 - recipe id: 780 | user: will the texture remain the same?
+2026-05-02 14:36:39 - recipe id: 780 | system: Yes, it should remain thick and creamy because you cook all ingredients together for about 3 minutes until they are well-blended. Since there is only one ingredient mentioned here (the oats), you can skip adding a separate pudding mix to make this simpler while maintaining that rich texture. Enjoy your quick, low-fat breakfast!
+2026-05-02 14:37:25 - recipe id: 780 | user: how can i increase protien content with the same recipe?
+2026-05-02 14:37:25 - recipe id: 780 | system: You can try doubling the vanilla to boost flavor and adding an extra egg. However, since peanut butter is already high in fat, you may need a different nut or legume substitute if it's not available.
+2026-05-02 14:38:39 - user search: text='i want to have something high protein as i just got back from the gym' | ids: [780, 769, 762, 768, 771] | reranked: [769, 762, 768]
+2026-05-02 14:39:46 - recipe id: 769 | user: is there a way to reduce the number of calories?
+2026-05-02 14:39:46 - recipe id: 769 | system: Yes, you can cut the calories by swapping out the regular peanut butter for a low-calorie alternative like tahini or almond butter. You might also choose to use skim milk instead of low-fat milk and swap the bananas for frozen fruit slices. These changes will likely lower your total calorie count while keeping the smoothie's texture similar.
+2026-05-02 14:40:48 - recipe id: 769 | user: and is there any way to increase protein further?
+2026-05-02 14:40:48 - recipe id: 769 | system: Yes, you can boost the protein by adding 1/2 cup of hemp seeds. This recipe already contains a full serving of protein powder and peanut butter, so extra nuts might make it quite filling. However, since you have no dietary restrictions mentioned, I recommend using just the ingredients provided for this smoothie.
+2026-05-02 14:41:54 - recipe id: 769 | user: can i store the drink after prepartion? How should i store it?
+2026-05-02 14:41:54 - recipe id: 769 | system: You can store the drink in an airtight container at room temperature for up to 24 hours before refrigeration. Once chilled, keep it in the refrigerator for up to one week and consume within a few days of storage.
